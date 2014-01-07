@@ -1,4 +1,1 @@
-support
-=======
-
-Support site
+http://olegfedorovdev.github.io/support/
